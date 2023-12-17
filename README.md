@@ -1,2 +1,2 @@
 # EDA_NBA
-EDA sobre estadísticas de los jugadores de la NBA 17-18 de  DS_23
+EDA sobre estadísticas de los jugadores de la NBA 2022-2023 de DS_23
