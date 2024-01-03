@@ -1,13 +1,13 @@
 # EDA_NBA
 
-**EDA sobre estadísticas de los jugadores de la NBA de la temporada regular 2022-2023**
+### **EDA sobre estadísticas de los jugadores de la NBA de la temporada regular 2022-2023**
 
 <p align="center">
   <img src="https://forbes.es/wp-content/uploads/2022/10/nba.jpg" alt="Texto alternativo" width="600" height="300">
 </p>
 
 
-**Descripción:**
+#### **Descripción:**
 
 En este repositorio se encuentra el EDA que se organiza de la siguiente forma:
 
@@ -38,7 +38,7 @@ Encontraremos el contenido del análisis exploratorio en la carpeta src con la s
 Las tecnologías y bibliotecas que se utilizarán incluyen Python, Markdown, Git, GitHub, numpy, pandas, matplotlib, seaborn, scipy.stats, GitHub Actions, Microsoft Office.
 
 
-#**Contenido del análisis exploratorio:**
+#### **Contenido del análisis exploratorio:**
 
 1. Introducción
 
@@ -52,7 +52,7 @@ Las tecnologías y bibliotecas que se utilizarán incluyen Python, Markdown, Git
 
 6. Metodología
 
-7. Análisis(univariante, bivariante, multibariante)
+7. Análisis(univariante, bivariante, multivariante)
 
 8. Contraste de hipótesis
 
