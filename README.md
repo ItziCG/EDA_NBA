@@ -31,7 +31,7 @@ Encontraremos el contenido del análisis exploratorio en la carpeta src con la s
 
        * Memoría: explicación y desarrollo del EDA
 
-* utils: jupyter notebook con todo el código aplicado y desarrollado para llevar a cabo el análisis
+* utils. Se encuentra un jupyter notebook con todo el código aplicado y desarrollado para llevar a cabo el EDA
 
 
 
